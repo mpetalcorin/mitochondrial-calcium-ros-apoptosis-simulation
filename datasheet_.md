@@ -119,5 +119,5 @@ Revise this datasheet when the dataset schema, condition set, generation logic, 
 
 ## Citation
 
-Petalcorin, M.I.R. (2026). A Synthetic Single-Cell Systems Model of Mitochondrial Calcium, Reactive Oxygen Species, and Apoptotic Commitment. GitHub Repository.
+Petalcorin, M.I.R. (2026). A Synthetic Single-Cell Systems Model of Mitochondrial Calcium, Reactive Oxygen Species, and Apoptotic Commitment. https://github.com/mpetalcorin/mitochondrial-calcium-ros-apoptosis-simulation
 
